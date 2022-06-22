@@ -1,1 +1,1 @@
-not empty
+Print current working directory
