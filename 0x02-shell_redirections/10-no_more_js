@@ -1,2 +1,2 @@
 #!/bin/bash
-cat *.js > /dev/null
+file -name *.js -type f -delete
