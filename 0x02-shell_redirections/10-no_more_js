@@ -1,2 +1,2 @@
 #!/bin/bash
-cat .js* > /dev/null
+cat *.js > /dev/null
